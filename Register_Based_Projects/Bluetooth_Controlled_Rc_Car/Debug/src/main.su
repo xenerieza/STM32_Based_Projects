@@ -1,0 +1,15 @@
+main.c:15:6:RCC_Config	4	static
+main.c:100:6:GPIO_Config	4	static
+main.c:112:6:USART_Config	4	static
+main.c:158:6:GPIO_MotorSetBit	16	static
+main.c:163:6:GPIO_MotorResetBit	16	static
+main.c:182:6:Forward	8	static
+main.c:191:6:Backward	8	static
+main.c:200:6:Turn_Right	8	static
+main.c:209:6:Turn_Left	8	static
+main.c:218:6:Stop	8	static
+main.c:226:6:GetCommand	16	static
+main.c:252:6:delay	16	static
+main.c:263:5:main	16	static
+main.c:280:6:EVAL_AUDIO_TransferComplete_CallBack	16	static
+main.c:287:10:EVAL_AUDIO_GetSampleCallBack	4	static
